@@ -1,0 +1,14 @@
+title: Home Page
+
+fields:
+
+  _template:
+    display: Template
+    default: home
+    type: hidden
+
+  content:
+    display: Page Content
+    required: false
+    default:
+    type: markitup
